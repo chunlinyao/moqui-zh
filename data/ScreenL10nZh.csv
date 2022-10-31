@@ -2724,3 +2724,11 @@ zh,Zhejiang,浙江省
 zh,Zimbabwe,津巴布韦
 zh,"at ${ec.l10n.format(commEvent?.entryDate, 'yyyy-MM-dd HH:mm')}","时间：${ec.l10n.format(commEvent?.entryDate, 'yyyy-MM-dd HH:mm')}"
 zh,"to ${ec.resource.expand('PartyNameTemplate','',toParty)}","收信人：${ec.resource.expand('PartyNameTemplate','',toParty)}"
+zh,"Re-Login",重登录
+zh,"Send code to",发送验证码到
+zh,"Reload Page",重加载页面
+zh,"Switch Dark/Light",切换深浅色
+zh,"Logout",退出
+zh,"Welcome",欢迎
+zh,"Notify History",历史通知
+zh,"Screen History",页面历史记录
