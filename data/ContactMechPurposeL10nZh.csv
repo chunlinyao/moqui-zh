@@ -1,6 +1,6 @@
 moqui.basic.LocalizedMessage,seed
 locale,original,localized
-zh,Postal - Primary,邮政 - 初级
+zh,Postal - Primary,邮政 - 主要
 zh,Postal - Shipping Destination,邮政 - 运送目的地
 zh,Postal - Shipping Origin,邮政 - 发货地
 zh,Postal - Billing (AP),邮政 - 计费 (AP)

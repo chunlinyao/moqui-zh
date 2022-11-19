@@ -336,7 +336,7 @@ zh,At,在
 zh,Attachment File,附件文件
 zh,Attachments,附件
 zh,Attendee,参加者
-zh,Attention,注意
+zh,Attention,经办人
 zh,Attn Name,经办人名字
 zh,Audit Log,审计日志
 zh,Australia,澳大利亚
@@ -2577,6 +2577,7 @@ zh,Uncancel,撤销取消
 zh,Uncomplete Order,撤销订单完成
 zh,Union,联盟
 zh,Unit,单位
+zh,Unit##Number,单元号
 zh,United Arab Emirates,阿拉伯联合酋长国
 zh,United Kingdom,英国
 zh,United States,美国
@@ -2735,3 +2736,5 @@ zh,"Screen History",页面历史记录
 zh,"Login Date",登录日期
 zh,"Preference Key",偏好键
 zh,"Preference Value",偏好值
+zh,"Zip/Postal Code",邮政编码
+zh,"Zip/Postal Code Extension",邮编扩展
