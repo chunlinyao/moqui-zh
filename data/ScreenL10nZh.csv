@@ -1363,7 +1363,7 @@ zh,Message List,消息列表
 zh,Message Remote,远端消息
 zh,Message Remotes,远端消息
 zh,Message Types,消息类型
-zh,Messages,沟通
+zh,Messages,消息
 zh,Meta Description,Meta描述
 zh,Meta Keywords,Meta关键字
 zh,Meta-Descriptionzh,Meta说明
@@ -2738,3 +2738,12 @@ zh,"Preference Key",偏好键
 zh,"Preference Value",偏好值
 zh,"Zip/Postal Code",邮政编码
 zh,"Zip/Postal Code Extension",邮编扩展
+zh,"Job Run ID",执行ID
+zh,"Parameters",参数
+zh,"Results",结果
+zh,"Has Error",有错误
+zh,"Errors",错误
+zh,"Host Address",主机地址
+zh,"Run Thread",执行线程
+zh,"Start Time",开始时间
+zh,"End Time",结束时间
